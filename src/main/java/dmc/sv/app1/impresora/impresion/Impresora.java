@@ -1,4 +1,4 @@
-package dmc.sv.app1.impresion;
+package dmc.sv.app1.impresora.impresion;
 
 public class Impresora{
     private int folios = 100;
